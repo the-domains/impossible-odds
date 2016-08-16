@@ -1,4 +1,3 @@
-layout_spectrum: 0.6395597469527274
 typography_spectrum: 0.43532903864979744
 color:
   brandStrength: 0.9593675672076643
@@ -6,9 +5,11 @@ color:
   saturation: 0.6070145228877664
   rhythmicContrast: 0.5219651022925973
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+layout_spectrum: 0.6395597469527274
 name: Impossible Odds
+title: Impossible Odds
